@@ -6,7 +6,15 @@ Maria Terenteva
 Contacts
 -----------
 
+*Phone*: +375445802292
 
+*Email*: <mariaterentjva@gmail.com>
+
+[LinkedIn](https://www.linkedin.com/in/terentevaeva/ "linkedIn")
+
+*Telegram*: @terentevaeva
+
+[GitHub](https://github.com/aevateva "github")
 
 ----------------------------
 
