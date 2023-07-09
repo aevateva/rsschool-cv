@@ -7,6 +7,11 @@
 ## About 
 I've graduated from Minsk State Linguistic University (2023) and I want to work as a interpreter-translator with a specalization in international tourism.
 
+## Contact
+* *mariaterentjeva@gmail.com* 
+* [*telegram: spheremar*](https://t.me/spheremar "mar")
+*  Minsk, Belarus
+
 ## Experience
 ### **2023**
 Participated in negotiations and interpreted at the meeting with suppliers from China at ZAO TVK
