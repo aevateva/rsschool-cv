@@ -1,1 +1,48 @@
+header {
+    width: 100%;
+    height: 50px;
+    background-color: #ff007b;
+}
+html {
+    scroll-behavior: smooth;
+}
+.page {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    color: black;
+}
+.container {
+    display: grid;
+}
+.nav-line {
 
+}
+.nav-list {
+
+}
+.nav-item {
+
+}
+.right-side {
+position: relative;
+}
+.description {
+
+}
+.sector {
+
+}
+.date {
+
+}
+.left-side {
+
+}
+footer {
+
+}
